@@ -167,4 +167,4 @@ sudo pacman -S base-devel
 
 ## License
 
-This project is licensed under the ISC License. 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
